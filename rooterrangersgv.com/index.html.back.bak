@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<!--[if IE 7 ]>
+<html lang="en" class="no-js ie7">	
+<![endif]-->	
+<!--[if IE 8 ]>	
+<html lang="en" class="no-js ie8">	
+	<![endif]-->	
+	<!--[if IE 9 ]>	
+	
+	<html lang="en" class="no-js ie9">	
+	
+	<![endif]-->
+	<!--[if (gt IE 9)|!(IE)]>
+	
+	<!-->		
+	<html lang="en" class="no-js">		
+	<!--				<![endif]-->		
+	<!-- =========================================head========================================== -->				<head>				
+	<!-- =========================================Basic========================================== -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>	
+	<title>Rooter Rangers - SOUTHERN CALIFORNIA PLUMBERS - Plumbing & Drain Services</title>	
+	<meta name="keywords" content="Drain Cleaning,Unclog, All Plumbing Repairs, Trenchless Sewer Replacement,Water Heaters,Garbage Disposal,Leak Detection"/>		
+	<meta name="description" content="Rooter Rangers provides fast, affordable and immediate plumbing and drain services in Phoenix. Call us today at 623-565-9188 or 602-883-8808."/>	
+	<!-- =========================================Mobile Configurations========================================== -->					
+	<meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=no"/>
+	<meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+	<meta name="apple-mobile-web-app-capable" content="yes"/>
+	<!-- Owl Carousel CSS -->					
+	<link href="css/owl.carousel.css" rel="stylesheet" media="screen">			
+	<link href="css/owl.theme.css" rel="stylesheet" media="screen">							<!-- =========================================CSS========================================== -->						<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>	
+	<link rel="stylesheet" href="css/offcanvas.css"/>	
+	<link rel="stylesheet" href="css/style.css"/>							<!-- =========================================redirect code========================================== -->										<!-- =========================================Duda code========================================== -->	
+
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+	<!-- Global site tag (gtag.js) - Google Analytics -->		
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110941044-1"></script>							<script>  window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'UA-110941044-1');</script>	
+
+	</head>	
+	<!-- /head -->
+	<body>
+	<div class="wrapper" id="wrapper">
+	<div class="offcanvas-pusher">
+	<div class="offcanvas-pusher">
+	<div class="content-wrapper">
+	<div class="container">
+	<div class="row">
+	<section class="header">
+	<header class="header-wrapper">
+	<div class="header-top">
+	<div class="col-md-6 col-xs-12 col-sm-6">
+	<div class="logo">
+	<a title="Rooter Ranger" href="#">
+	<img src="img/logo.png" alt="Rooter Ranger"></a>
+	</div>
+	</div>
+	<div class="col-md-3 hidden-xs col-sm-3 header_contact">
+	<div class="header-image">
+	<img src="img/header-logo2.png" alt="Rooter Ranger" style="margin-left: 378px;">
+	</div>
+	</div>
+	<div class="col-md-3 hidden-xs col-sm-3 header_social">
+	</div>
+	</div>
+	<!-- .header-top-->
+	<div class="main-nav-bar">
+	
+
+	
+	</div>
+	<!-- .main-nav-bar -->
+	</header>
+	<!-- .header-wrapper-->
+	</section><!--End .header -->
+	</div><!-- .row-->
+	</div><!-- .container-->
+	
+	
+	<div class="container-fluid">
+	<section class="banner-section hidden-xs">
+	<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+	<!-- Indicators -->
+	<ol class="carousel-indicators">
+	<li data-target="#carousel-example-generic" data-slide-to="0" class="active">
+	</li><li data-target="#carousel-example-generic" data-slide-to="1"></li>
+	<li data-target="#carousel-example-generic" data-slide-to="2"></li></ol>
+	<!-- Wrapper for slides -->
+	<div class="carousel-inner" role="listbox">
+	<div class="item active"><img src="img/slide1.jpg" alt="slide2">
+	<div class="carousel-caption">
+	<h1>FAST, AFFORDABLE PLUMBING & EMERGENCY DRAIN SERVICE </h1>
+	<p>Day, night, weekends or holidays, our plumbers are ready to help.</p>
+	</div></div>
+	<div class="item">
+	<img src="img/slide1.jpg" alt="slide3">
+	<div class="carousel-caption">
+<div class=""><h1>$47 DRAIN CLEANING!</h1></div>
+	<div class=""><h1>$50 OFF PLUMBING REPAIRS</h1></div>
+	<div class=""><h1>HYDRO JETTING SERVICE</h1></div>
+	<p>FREE ESTIMATES 10% Off for Seniors Military & First Responders</p>
+	</div></div></div></div>
+	</section>
+	<!-- .banner-section--></div>
+	
+	
+	
+	<!-- .container-fluid-->
+	<div class="container">
+	<div class="row">
+	<div class="col-md-12">
+	<div class="welcome-section">
+	<!--<h1 class="customh1-innerpages">SOUTHERN CALIFORNIA PLUMBERS</h1>-->
+	<div class="welcome-thumb">
+	<img src="img/welcome.jpg" alt="welcome Rooter Ranger">
+	</div>
+	<div class="welcome-content">
+	<p class="service_contact_tag">CALL ROOTER RANGER NOW FOR IMMEDIATE SERVICE </p>
+	<div align=center classOFF="new_contact">
+		<!--
+			<p classOFF="service_contact_no">
+				<a href="tel:909-417-1911"><i class="fas fa-phone-volume"></i>909-417-1911</a>
+			</p>
+			<p class="service_contact_no_2">	
+				<a href="tel:626-788-0802"><i class="fas fa-phone-volume"></i>626-788-0802</a>	
+			</p>
+		-->
+		<p class="service_contact_no">
+			<a href="tel:888-772-6437"><i class="fas fa-phone-volume"></i>888-772-6437</a>
+		</p>
+
+	</div>
+	<p class="service_main_tag" style="padding-bottom: 0px;margin: 0;">60 MINUTE SERVICE FOR SAN GABRIEL VALLEY</p>
+	<p class="li-service-main-tag" style="padding-bottom: 15px;margin: 0px;color: #4e7bb7;font-weight: 600;"><span style="color:black;font-size: 20px;">(</span><span style="color:red;">* </span> WITH IN ESTABLISHED WINDOW  <span style="color:black;font-size: 20px;">)</span></p>
+	<p class="service_main_desc">
+	Ask us how to become a Ranger Club Member to receive priority service and discounts, yearly maintenance inspection, water heater flushes, and extended warranties and guarantees! 
+	</p>
+	
+	<p class="service_sub_tag">	<span>$47 DRAIN CLEANING </span><br>"with proper access"</p>
+	</div>
+	</div>
+	<!-- .welcome-section--></div>
+	<!-- .col-md-12--></div>
+	<!-- .row--></div>
+	<div class="container">
+	<div class="service-activity">
+	<div class="row">
+	<div class="col-md-3">
+	<!--<div class="li_pic">
+	<img src="img/IMG-1.jpeg" alt="welcome Rooter Ranger">
+	</div>-->
+	</div>
+	<div class="col-md-6">
+	<div class="activity-head">
+	<h2>FAST, AFFORDABLE PLUMBING & EMERGENCY DRAIN SERVICE 	<span> 888-7RANGEr</span></h2>
+	</div>
+	</div>
+	<div class="col-md-3">
+	<!--<div class="li_pic">
+	<img src="img/IMG-2.JPG" alt="welcome Rooter Ranger">
+	</div>--></div></div>
+	<div class="row">
+	<div class="activity-list-items">
+	<div class="col-md-4 col-xs-12 col-sm-4">
+	<div class="activity-list">
+	<div class="activity-icon">	
+	<i class="fa fa-calculator"></i>
+	</div>	<div class="activity-details">
+	<div class="activity-details-custom-h4">Repair Options To Fit Your Budget</div>	
+	<p>We offer free expert advice & best repair cost options</p>	</div></div></div>
+	<div class="col-md-4 col-xs-12 col-sm-4">
+	<div class="activity-list">	<div class="activity-icon">
+	<i class="fa fa-clock-o"></i>	</div>
+	<div class="activity-details">	
+	<div class="activity-details-custom-h4">Available 24 Hours, 7 Days a Week</div>	
+	<p>Day, night, weekends or holidays, our plumbers are ready to help</p>
+	</div>
+	</div>
+	</div>
+	<div class="col-md-4 col-xs-12 col-sm-4">
+	<div class="activity-list">	<div class="activity-icon">	
+	<i class="fa fa-cogs" aria-hidden="true"></i>
+	</div>	
+	<div class="activity-details">	
+	<div class="activity-details-custom-h4">We Do Any Plumbing Repair</div>	
+	<p>All Kitchen or bathroom Repairs, Water leak Repair, Slab Leak Repair, Trenchless Sewer Repair, Pipe Relining, and Complete Copper Repiping.</p>
+	</div></div></div></div>
+	<p style="font-size:16px;padding:15px;text-align:justify">
+	Rooter Ranger specializes in rooter and drain cleaning for Southern California. We are a family owned business and treat our customers like family. Our customer first approach makes us the best plumbing & drain cleaning company in Southern California. If you need plumbing repair services, drain cleaning, line maintenance, an inspection, water leak repair or trenchless sewer repair, Rooter Ranger is here for you. We provide 24-hour service and can usually be at your home within 60 minutes. When our technician arrives, he will evaluate the problem and provide you with a Free Estimate. No work will be done until you approve it! Please Check us out on Yelp and see all our 5 Star reviews. <a href="tel:909-417-1911">CALL NOW!</a></p>
+	<!-- .activity-list-items--></div></div>
+	<!-- .service-activity--></div>
+	<!-- .container--></div></div>
+	<!-- .row--></div>
+	<!-- .container--></div>
+	
+	</div>
+	
+	<!-- .quote-section-->
+	<div class="container">
+	<div class="row">
+	<div class="col-md-12">
+	<div class="our-clients-carousel">
+	<div id="our-client-thumb">
+	<div class="item">
+	<div class="client-logo">
+	<img src="img/client1.jpg" alt=""></div>
+	</div>
+	<div class="item">
+	<div class="client-logo">
+	<img src="img/client2.jpg" alt="">
+	</div></div>
+	<div class="item">
+	<div class="client-logo">
+	<img src="img/client3.jpg" alt="">
+	</div></div>
+	<div class="item">
+	<div class="client-logo">
+	<img src="img/client4.jpg" alt="">
+	</div></div>
+	<div class="item">	
+	<div class="client-logo">
+	<img src="img/client5.jpg" alt="">
+	</div>	</div>	<div class="item">	
+	<div class="client-logo">		
+	<img src="img/client1.jpg" alt="">	
+	</div>		</div>		<div class="item">
+	<div class="client-logo">		
+	<img src="img/client2.jpg" alt="">	
+	</div>	
+	</div>		
+	<div class="item">
+	<div class="client-logo">	
+	<img src="img/client3.jpg" alt="">
+	</div>				</div>		
+	<div class="item">
+	<div class="client-logo">	
+	<img src="img/client4.jpg" alt="">	
+	</div>			
+	</div>			
+	<div class="item">	
+	<div class="client-logo">	
+	<img src="img/client5.jpg" alt="">	
+	</div>			
+	</div>				
+	</div>		
+	</div>		
+	<!-- .our-clients-carousel-->	
+	</div>		
+	</div>		
+	<!-- .row -->	
+	</div>	
+	<!-- .container-->
+	<div class="section-above-footer">
+	<div class="container">	
+	<div class="row">			
+	<div class="col-md-12">		
+	<div class="footer-above-tag">		
+	<p>	<i>Your time is important to us so we offer 60 Minute Service</i></p>	
+	</div>			
+	<!--quote-->	
+	</div>			
+	</div>	
+	<!-- .row-->
+	</div>	
+	<!-- .container-->	
+	</div>
+	<!-- .quote-section-->
+	<!-- .container-->
+	<div class="container">	
+	<div class="row">		
+	<div class="footer-top">	
+	<div class="col-md-3 col-sm-6">		
+	<div class="logo footer-logo">	
+	<a title="Rooter Ranger" href="#">	
+	<img src="img/logo.png" alt="Rooter Ranger">			
+	</a><p>At Rooter Ranger, we specialize in sewer and drain services ; line maintenance, inspection, cleaning services and trenchless sewer repair.</p>	
+	</div>			
+	</div>			
+	<div class="col-md-3 col-sm-6">		
+	<div class="li_address">																								
+	<div class="custom-h4">Address</div>
+	
+<!--	<p>
+	<span class="vcard">
+	<span class="fn">
+	<a href="https://www.rooterranger.com/">Rooter Ranger Plumbing</a>
+	</span>
+	</br><span class="adr"><span class="street-address">35805 N 27th Ave,Phoenix</span>,<span class="locality">AZ&nbsp </span>
+	<span class="postal-code">85086-5538</span>
+	<span class="region">US</span></span>
+	<span class="ptext">Phone:</span>
+	<span class="tel">(888) 772-6437</span>
+	</span></p>	-->
+
+	<p>
+	<span class="vcard">
+	<span class="fn">
+	<a href="https://www.rooterranger.com/">Rooter Ranger Plumbing</a></span>
+	</br>
+	<span class="adr">
+	<span class="street-address">2085 11th Street,Laverne,</span><br>
+	<span class="locality"> </span> 
+	<span class="postal-code">California 91750</span>
+	<span class="region">US</span></span>
+	<span class="ptext">Phone:</span>
+	<span class="tel"><a href="tel:626-788-0802">626-788-0802</a></span>
+	</span></p></div>
+	<div class="follow-us">	
+	<div id="OnlineReviewManager" data-style="horz"> 
+	<!--<div class="custom-h4">Follow Us</div>-->	
+	<!--<a href="https://www.facebook.com/azplumbing5/">
+	<i class="fa fa-facebook-square" aria-hidden="true"></i>
+	</a>	-->
+	
+	<a href="https://www.pintaram.com/u/rooter_ranger_plumbing">	
+	<i class="fa fa-instagram" aria-hidden="true" style="letter-spacing: 3px;"></i>	
+	</a>			
+	
+		
+	<a href="https://www.yelp.com/biz/rooter-ranger-plumbing-phoenix-3?osq=Rooter+Ranger+Plumbing">
+	<img alt="Yelp" src="img1/img-yelp.png" style="border-style: none;  width: 33px; padding: 1px; letter-spacing: 3px;" /></a> 
+	
+	<a href="https://www.facebook.com/azplumbing5/">	
+	<img alt="Facebook" src="img1/img-facebook.png" style="border-style: none; width: 33px; padding: 1px; letter-spacing: 3px;" /></a>
+	
+	<a href="https://www.google.com/maps/place/Rooter+Ranger+Plumbing+%7C+888-7RANGER/@33.486912,-112.024007,17z/data=!4m5!3m4!1s0x0:0x5bf99351ab3bdab3!8m2!3d33.486912!4d-112.024007?hl=en-US">
+	<img alt="Maps.Google" src="img1/img-maps.google.png" style="border-style: none ; width: 33px; padding: 1px; letter-spacing: 3px;" /></a>
+	
+	<a href="http://U334.we-listen.com/" target="_new">
+	<img alt="Review Us" src= "img1/but-reviewus.png" style="border-style: none ; width: 33px; padding: 1px; letter-spacing: 3px;" />
+	</a>
+	
+	</div>	
+	
+	</div>			
+	</div>		
+	<div class="col-md-3 col-sm-6">		
+	<div class="responsability">	
+	<div class="custom-h4">Our Services</div>	
+	<ul><li><a href="service.html">Drain Cleaning</a></li>
+	<li><a href="service.html">Unclog Drains, Sinks & Toilets</a></li>	
+	<li><a href="service.html">All Plumbing Repairs</a></li>
+	<li><a href="service.html">Trenchless Sewer Replacement</a></li>
+	</ul>				
+	</div>
+	</div>
+	<div class="col-md-3 col-sm-6">
+	<div class="responsability responsability_sec2">	
+	<ul>
+	<li><a href="service.html">Water Heaters</a></li>
+	<li><a href="service.html">Garbage Disposal</a></li>			
+	<li><a href="service.html">Leak Detection</a></li>	
+
+	<li class="lic-cc" style="color:red;"> &nbsp; &nbsp; LICENSED BONDED & INSURED</li>	
+	</ul>
+	</div>	
+	</div>	
+	<div class="container">	
+	<div class="row">	
+	<div class="col-md-12">
+		
+			
+	<!--<div class="col-md-3 col-sm-6">	
+	<div class="custom-h4">Review Us</div>
+	<div id="reviewUs">	
+	<a href="http://we-listen.com/landing_page/21055" target="_new">
+	<img alt="Review Us" src= "img1/but-reviewus.png" style="border-style: none;  padding: 1px;" />
+	</a>					
+	</div>		
+	</div> 	-->	
+	
+	<div class="container">
+	<div class="row">
+	<div class="col-md-12">
+	<div class="frm_lst" style="padding-top:3em;">
+	<!--<div class="custom-h4" style="padding-top: 2em;">Review  Bar</div>	-->	
+	<iframe width="100%" height="100%" src="https://U334-reviewlist.we-listen.com?target=www.rooterranger.com">
+	</iframe>	
+    </div>	
+	</div></div></div>
+	
+	
+	</div>	
+	</div>	
+	</div>	
+	</div>	
+	<!-- .footer-top-->	
+	</div>	
+	<!-- .row-->	
+	<div class="row">
+	<div class="footer">
+	<div class="col-md-10 col-xs-12 col-sm-6">	
+	<div class="copyright">			
+	<p>Copyright &copy; 2019 | ROC315565 | </p>
+	</div>			
+	</div>			
+	<div class="col-md-6 col-xs-12 col-sm-6"></div>	
+	</div>		
+	<!-- .footer-->		
+	</div>		
+	<!-- .row-->	
+	</div>		
+	<!-- .container-->	
+	</div>
+	<!--content-wrapper-->
+	</div>
+	<!-- offcanvas-pusher -->
+	<div class="offcanvas-menu offcanvas-effect visible-xs">
+	<button type="button" class="close" aria-hidden="true" data-toggle="offcanvas" id="off-canvas-close-btn">&times;</button>
+	<div>	
+	<div>
+	<ul id="menu">
+	<!-- <li >
+	<a href="https://www.rooterranger.com/">Home</a>	
+	</li>		
+	<li>	
+	<a href="about.html">About us</a>
+	</li>		
+	<li>			
+	<a href="service.html">Services</a>	
+	</li>	
+	<li>	
+	<a href="coupons.html">Coupons</a>
+	</li>	
+	<li>	
+	<a href="heaters.html">Water Heaters</a>
+	</li>	
+	<li class="dropdown">	
+	<a href="#">City</a>	
+	<ul class="dropdown-menu">
+	<li>			
+	<a href="phoenix-plumbing.html">Phoenix</a>
+	</li>		
+	<li>		
+	<a href="scottsdale-plumbing.html">Scottsdale</a>	
+	</li>	
+	<li>		
+	<a href="chandler-plumbing.html">Chandler</a>	
+	</li>					
+	<li>			
+	<a href="mesa-plumbing.html">Mesa</a>
+	</li>			
+	<li>					
+	<a href="tempe-plumbing.html">Tempe</a>		
+	</li>	
+	<li>	
+	<a href="glendale.html">Glendale</a>	
+	</li>		
+	<li>			
+	<a href="suncity.html">Suncity</a>		
+	</li>					
+	<li>					
+	<a href="Phoenix-Drain-Cleaning.html">Phoenix Drain Cleaning</a>
+	</li>				
+	<li class="active">					
+	<a href="orangecounty-plumbing.html">Orange County</a>	
+	</li>						
+	<li>						
+	<a href="irvine-plumbing.html">Irvine</a>	
+	</li>					
+	<li>					
+	<a href="sanclemente-plumbing.html">San Clemente</a>
+	</li>					
+	<li>				
+	<a href="lagunabeach-plumbing.html">Laguna Beach</a>
+	</li>
+	<li><a href="anaheim-plumbing.html">Anaheim</a></li>
+													<li><a href="santa-ana-plumbing.html">Santa-Ana</a></li>
+													<li><a href="huntington-beach-plumbing.html">Huntington Beach</a></li>
+	</ul>			
+	</li>		
+	<li>		
+	<a href="contact.php">Contact Us</a>	
+	</li> -->		
+	</ul>	
+	</div>	
+	</div>
+	</div>
+	<!-- offcanvas-menu end -->
+	</div>
+	<!-- #wrapper --><!-- Fonts -->
+	<link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,700' rel='stylesheet' type='text/css'>
+	<link href='//fonts.googleapis.com/css?family=Raleway:600,400' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
+	<!-- //Fonts -->	<!-- =========================================JAVASCRIPT========================================== -->
+	<script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>	
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/hippo-off-canvas.js"></script>
+	<script src="js/script.js"></script>
+	<script src="//maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+	<script>jQuery(".dropdown").click(function() {
+jQuery(".dropdown-menu", this).toggleClass('lj-open');
+});</script>
+	</body></html>
